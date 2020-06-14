@@ -7,6 +7,9 @@
       <change afterPath="$PROJECT_DIR$/client/src/components/PrivateRoute.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/Signup/Signup.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/utils/API.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/public/logo192.png" beforeDir="false" />
@@ -28,7 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dJAUFuECzmLtXsB3hSqn5A2xFe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592132835125</updated>
-      <workItem from="1592132838086" duration="9619000" />
+      <workItem from="1592132838086" duration="10093000" />
     </task>
     <servers />
   </component>
